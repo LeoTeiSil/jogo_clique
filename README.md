@@ -21,3 +21,8 @@ npm run dev
 
 5. Jogando
 O comando acima vai te dar um link local, tipo: http://localhost:5173/.
+
+
+app rodando
+
+https://jogo-clique-r88n.vercel.app/
